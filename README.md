@@ -1,2 +1,3 @@
 # Survivor-Unity-Game
-A basic Survivor Game made in Unity using online tutorials
+A first person survivor Game made  made using the Unity3d
+engine and C# scripting.
